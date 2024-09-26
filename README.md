@@ -40,7 +40,7 @@ python -m venv venv
 
 # Install dependencies:
 
-code:
+code: https://github.com/Aneeesahmad882/wasserstoff-AiInternTask-AI_Image_Segmentation.git
 
 pip install -r requirements.txt
 Download pre-trained models (if required): Some models, like those from Hugging Face, need to be downloaded manually.
